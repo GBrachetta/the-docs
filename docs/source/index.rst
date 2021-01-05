@@ -5,13 +5,19 @@ Welcome to The Docs!
    :maxdepth: 4
    :caption: Contents:
 
-   license
-   help
-   python
-   django
-   javascript
-   react
-   gists
+   /general/license
+   /general/help
+
+   /python/python
+
+   /django/django
+
+   /javascript/javascript
+
+   /react/react
+   /react/react_implicit_vs_explicit
+
+   /various/gists
 
 
 
