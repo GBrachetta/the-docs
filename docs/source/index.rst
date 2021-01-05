@@ -15,15 +15,14 @@ Welcome to The Docs!
    /javascript/javascript
 
    /react/react
-   /react/react_implicit_vs_explicit
 
    /various/gists
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
