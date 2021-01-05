@@ -7,9 +7,11 @@ Welcome to The Docs!
 
    license
    help
-   react
+   python
    django
    javascript
+   react
+   gists
 
 
 

@@ -1,9 +1,13 @@
+======
 Django
 ======
 
+********
+Settings
+********
 
 common.py
-^^^^^^^^^
+=========
 
 .. code-block:: python
 
@@ -89,7 +93,7 @@ common.py
   MEDIA_URL = "/media/"
 
 development.py
-^^^^^^^^^^^^^^
+==============
 
 .. code-block:: python
 
@@ -148,7 +152,7 @@ development.py
   INTERNAL_IPS = ["127.0.0.1", "localhost"]  # For debug-toolbar
 
 production.py
-^^^^^^^^^^^^^
+=============
 
 .. code-block:: python
 
@@ -196,3 +200,9 @@ production.py
       MEDIAFILES_LOCATION = "media"
       STATIC_URL = f"https://{AWS_S3_CUSTOM_DOMAIN}/{STATICFILES_LOCATION}/"
       MEDIA_URL = f"https://{AWS_S3_CUSTOM_DOMAIN}/{MEDIAFILES_LOCATION}/"
+
+*******
+Scripts
+*******
+
+.. note:: text
