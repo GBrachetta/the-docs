@@ -2,12 +2,14 @@ Welcome to The Docs!
 ====================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
    license
    help
    react
+   django
+   javascript
 
 
 
